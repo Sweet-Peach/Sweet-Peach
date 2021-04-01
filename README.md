@@ -1,4 +1,4 @@
-- 👋 Olá, Meu nome é Igor Gomes
+- 👋 Olá, meu nome é Igor Gomes
 - 👀 Sou interessado em resolver problemas de forma inteligente
 - 🌱 Atualmente estou estudando a linguagem java
 - 💞️ Adoraria uma oportunidade de colocar todo meu conhecimento em prática!
