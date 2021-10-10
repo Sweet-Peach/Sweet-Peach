@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Sweet-Peach">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sweet-Peach&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweet-Peach&layout=compact&langs_count=7&theme=calm"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=swtt-pch&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swtt-pch&layout=compact&langs_count=7&theme=calm"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -28,6 +28,6 @@
     <a href="https://wa.me/5511977998370" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
  
-  ![Snake animation](https://github.com/Sweet-Peach/Sweet-Peach/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/swtt-pch/swtt-pch/blob/output/github-contribution-grid-snake.svg)
  
 </div>
