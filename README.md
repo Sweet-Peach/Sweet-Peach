@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/swtt-pch">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=swtt-pch&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swtt-pch&layout=compact&langs_count=7&theme=calm"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swtt-pch&layout=compact&langs_count=7&theme=calm&hide=html"/>
 </div>
   
   <div style="display: inline_block"><br>
