@@ -4,7 +4,7 @@
  >
 > 📚 Currently studying System Analysis and Development;
  >
-> ❣️ Back-end enthusiast with Full Stack spirit!; 
+> ❣️ Front-end enthusiast with Full Stack spirit!; 
  >
 > 😊 Always trying to learn more and adapt better.
 
