@@ -28,16 +28,16 @@ igsouza.contato@gmail.com
   
 <div align="center" style="display: inline_block">
  <br/>
-  <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Spring_Security-323330?style=for-the-badge&logo=springsecurity" />
-  <img src="https://img.shields.io/badge/Spring_Boot-323330?style=for-the-badge&logo=spring" />
-  <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/HTML5-373f51?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-373f51?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Javascript-373f51?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Typescript-373f51?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/ReactJS-373f51?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/ReactJS-373f51?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Spring_Security-373f51?style=for-the-badge&logo=springsecurity" />
+  <img src="https://img.shields.io/badge/Spring_Boot-373f51?style=for-the-badge&logo=spring" />
+  <img src="https://img.shields.io/badge/Java-373f51?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-373f51?style=for-the-badge&logo=docker" />
 </div>
   
   ##
